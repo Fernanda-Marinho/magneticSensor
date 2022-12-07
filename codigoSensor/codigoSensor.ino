@@ -1,7 +1,5 @@
 #define SENSOR 5
 int resp = 0;
-int cont = 0;
-
 
 void setup() {
   pinMode(SENSOR, INPUT);
