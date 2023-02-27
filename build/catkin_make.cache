@@ -1,0 +1,2 @@
+roda
+-DCATKIN_DEVEL_PREFIX=/home/pi/ros_catkin_ws/roda3/devel -DCMAKE_INSTALL_PREFIX=/home/pi/ros_catkin_ws/roda3/install -G Unix Makefiles

@@ -1,0 +1,8 @@
+prefix=/home/pi/ros_catkin_ws/roda3/devel
+
+Name: roda
+Description: Description of roda
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
