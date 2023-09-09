@@ -4,7 +4,7 @@
 
 volatile unsigned long tempoAnteriorR = 0;
 volatile unsigned long tempoAnteriorL = 0;
-const float distanciaPorPulso = 0.008125; 
+const float distanciaPorPulso = 0.0160833; 
 float velocidadeR;
 float velocidadeL;
 float linear = 0.0;
